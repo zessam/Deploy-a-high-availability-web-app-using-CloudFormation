@@ -8,6 +8,13 @@
 
 * This needs to be automated so that the infrastructure can be discarded as soon as the testing team finishes their tests and gathers their results.
 
+# Diagram Picture 
+
+
+![Project-Two-Diagram](https://user-images.githubusercontent.com/72177003/207866647-57224a99-ba6c-47a9-970f-74e53503b634.jpeg)
+
+
+
 How to run it ?
 -------------------
   you can run the part as followed :
